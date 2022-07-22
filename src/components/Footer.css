@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400;500;600;800;900&display=swap');
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    font-family: Raleway;
+    font-size: 12px;
+}
+
+footer a, footer a:hover, footer a:focus, footer a:active {
+    text-decoration: none;
+    color: black;
+}
+
+.heart-icon {
+    width: 12px;
+    filter: invert(52%) sepia(92%) saturate(371%) hue-rotate(179deg) brightness(105%) contrast(101%);
+}
