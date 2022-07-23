@@ -8,12 +8,12 @@ function Destination(props) {
       <div className="destination-info-container">
         <div className="destination-location-info">
           <img src="../../images/icons/location-dot-solid.svg" alt="location-pin-icon" className="pin-icon"/>
-          <h4 className="destination-country">{props.destination.location.toUpperCase()}</h4>
+          <p className="destination-country">{props.destination.location.toUpperCase()}</p>
           <a href={props.destination.googleMapsUrl} target="blank" className="google-url">
             View on Google Maps
           </a>
         </div>
-        <h1 className="destination-title">{props.destination.title}</h1>
+        <h2 className="destination-title">{props.destination.title}</h2>
         <p className="destination-date">
           {props.destination.startDate}-{props.destination.endDate}
         </p>
