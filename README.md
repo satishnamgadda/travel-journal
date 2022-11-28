@@ -30,5 +30,4 @@ The application fetches data from a static dataset, and generates a set of card 
 
 ## Screenshots
 
-### Desktop
 <img src="./screenshots/screenshot-2.png" width="600px" />
