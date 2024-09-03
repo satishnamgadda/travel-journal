@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center">A personal travel journal written in React</h3>
+<h3 align="center">This is a Sidhu Babay here</h3>
 
 <h3 align="center"><a href="https://margos-travel-journal.netlify.app/">Try me!</a></h3>
 
